@@ -1,6 +1,6 @@
 # Hi, I'm Nurun Najwa
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+I am currently a semester 5 student studying Computer Science in UiTM Shah Alam
 
 ## About me
 - Studying: Bachelor in Computer Science (.Hons), UiTM
