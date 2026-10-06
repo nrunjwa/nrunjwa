@@ -8,7 +8,10 @@ I am currently a semester 5 student studying Computer Science in UiTM Shah Alam
 - My FYP area: Natural Processing Language (NLP)
 
 ## Skills and tools
-- programming: C++, Java
+- C++
+- Java
+- SQL
+- Python
 
 ## Projects
 - [Project name](github.com/nrunjwa): one sentence about it
