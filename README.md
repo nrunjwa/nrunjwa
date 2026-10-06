@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nurun Najwa
 
-<!--
-**nrunjwa/nrunjwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor in Computer Science (.Hons), UiTM
+- Currently learning: Artificial Intelligence, Machine Learning, Parallel Processing, Algorithm Analysis
+- My FYP area: Natural Processing Language (NLP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+- programming: C++, Java
+
+## Projects
+- [Project name](github.com/nrunjwa): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: [a professional email address]
+
+
